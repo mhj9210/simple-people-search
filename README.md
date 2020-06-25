@@ -1,1 +1,1 @@
-Very simple people search app just using react.
+Just a very simple 5 minute people search app only using react.
